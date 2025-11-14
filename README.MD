@@ -39,7 +39,7 @@ A solução foi construída utilizando uma arquitetura moderna e desacoplada, se
 
 Você pode interagir com o chatbot diretamente através do link abaixo, gerado pelo ambiente de desenvolvimento do GitHub Codespaces.
 
-**🔗 Link do Chatbot:** https://supreme-space-pancake-7gv67w74vjqfr4p5-8501.app.github.dev
+**🔗 Link do Chatbot:** https://desafio-logmanager-n8et268vrmupvt9p4fu3bt.streamlit.app
 
 ### Instruções de Teste
 
