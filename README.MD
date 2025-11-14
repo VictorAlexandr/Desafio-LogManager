@@ -64,5 +64,3 @@ Para ver o registro de pedidos acontecendo ao vivo, você pode abrir a planilha 
 - `requirements.txt`: As dependências Python necessárias para rodar a aplicação.
 - `README.md`: Este documento.
 - `/prints/`: Pasta contendo screenshots do workflow implementado no n8n.
-
-*(Certifique-se de criar uma pasta chamada "prints" e adicionar seus screenshots do n8n lá dentro)*.
