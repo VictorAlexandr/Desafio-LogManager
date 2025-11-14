@@ -35,7 +35,7 @@ A solução foi construída utilizando uma arquitetura moderna e desacoplada, se
 
 ## Como Testar a Aplicação
 
-### Link Público para Testes
+### Link Público para Testes.  
 
 Você pode interagir com o chatbot diretamente através do link abaixo, gerado pelo ambiente de desenvolvimento do GitHub Codespaces.
 
