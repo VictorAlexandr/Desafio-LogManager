@@ -50,6 +50,12 @@ Você pode interagir com o chatbot diretamente através do link abaixo, gerado p
 5.  Quando o agente apresentar o resumo do pedido, confirme com uma mensagem como "sim" ou "pode confirmar".
 6.  Após a confirmação, o agente exibirá uma mensagem de sucesso, e o pedido será registrado na planilha de backend.
 
+### Demonstração em Tempo Real (Opcional)
+
+Para ver o registro de pedidos acontecendo ao vivo, você pode abrir a planilha de "Pedidos Finais" no link abaixo. Ao confirmar um pedido no chat, você verá uma nova linha sendo adicionada em tempo real.
+
+**🔗 Link da Planilha de Pedidos:** https://docs.google.com/spreadsheets/d/1k7v0RMCp26H_SucUi9Eo4wWWRCNWmh1APE8_cNyAkMQ/edit?usp=sharing
+
 ---
 
 ## Estrutura do Repositório
